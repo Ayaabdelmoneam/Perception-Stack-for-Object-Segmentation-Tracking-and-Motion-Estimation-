@@ -1,0 +1,2 @@
+set(perception_stack_pkg_MESSAGE_FILES "/home/aya/catkin_ws/src/perception_stack_pkg/msg/BoundingBox.msg;/home/aya/catkin_ws/src/perception_stack_pkg/msg/DetectionList.msg;/home/aya/catkin_ws/src/perception_stack_pkg/msg/TrackedObject.msg;/home/aya/catkin_ws/src/perception_stack_pkg/msg/TrackedObjectsList.msg;/home/aya/catkin_ws/src/perception_stack_pkg/msg/FlowFrame.msg;/home/aya/catkin_ws/src/perception_stack_pkg/msg/ProcessedTrackedObjectsList.msg;/home/aya/catkin_ws/src/perception_stack_pkg/msg/ProcessedTrackedObject.msg")
+set(perception_stack_pkg_SERVICE_FILES "")
